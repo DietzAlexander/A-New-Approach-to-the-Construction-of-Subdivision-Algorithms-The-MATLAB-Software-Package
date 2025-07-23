@@ -1,0 +1,2 @@
+# A-New-Approach-to-the-Construction-of-Subdivision-Algorithms-The-MATLAB-Software-Package
+This software package creates subdivision matrices for generalized quadratic and cubic B-spline subdivision for subdivision surfaces as well as subdivision volumes. The subdivision matrices define refinement rules for arbitrary combinatorial structures. The matrices have a valid eigenstructure and a subdominant eigenvalue of 1/2.
